@@ -1,0 +1,11 @@
+{
+    "version": "0.0.1",
+    "notes": "first alpha release",
+    "pub_date": "2025-01-09T00:00:00.00+00:00",
+    "platforms": {
+      "darwin-x86_64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdWZXSTlSbTcvaEFpREx5WW5NbVFrM082SkxJaEkvWjBzSUJURmdyaWg0ZVJWWGF4c1gxUDFLUEtTdVYvK2d2VktzR2FiQVQ0ZDNrSTIwVDJNVVkzbU9uR1dnYm9zZEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5Nzk5MDQ1CWZpbGU6U291ei5hcHAudGFyLmd6ClZObEtDMGs5aVV6OGJmS3BLa3ZsWEVJWDBDM2p5UDkxcXlEVDJmSDRNQktYYjRuK2VIL1VlNFNiUnkzQ0x3Z0M5WWJEbjlDV0xIUWZ6ZHl6MG8wYUNRPT0K",
+        "url": "https://github.com/soyuz-fun/releases/releases/download/0.0.1/Souz.app.tar.gz"
+      }
+    }
+  }
