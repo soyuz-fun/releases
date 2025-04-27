@@ -3,7 +3,7 @@
     "notes": "first alpha release",
     "pub_date": "2025-01-09T00:00:00.00+00:00",
     "platforms": {
-      "darwin-x86_64": {
+      "darwin-aarch64": {
         "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSU9uakJDdFc3SjQzL3BqOW1COVV0aFVyODk1UHowd0cwTVBvRTJUQ2FRUGdJWTZHN0ZRQ0k3NUNUa2Q1K3M0YnBjS1FnalF4QUlTYlMwc0ZtUTFFQ3ZIbVUwLzY4YXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM2MzcyNDE0CWZpbGU6U295dXouYXBwLnRhci5negpETk5ybmVrL0w4VWs1M093VGNBUTU1bERhcmZMUjBUSTJOcVpZRk1iakQvVk1VMzFNSnQ0bGx3b2lXelNiWkVlZnFqY3Z0bUpCNjFsSnFVMjlVM1VCdz09Cg==",
         "url": "https://github.com/soyuz-fun/releases/releases/download/0.0.1/soyuz-macos.app.tar.gz"
       },
