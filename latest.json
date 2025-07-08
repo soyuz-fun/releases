@@ -1,11 +1,6 @@
 {
     "version": "0.3.1",
     "notes": "Closed technical preview pre-release",
-    "pub_date": "2025-05-22T12:00:00.00+00:00",
-    "platforms": {
-      "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSU9uakJDdFc3SjAyMXVvUWg1d1FKMDFES29EMS9FL0ZzZXg0dUhtUnF2ZS9tS2p3S05SZ0tlWFRtY1Nna0taV2R4TUEvSjJBMzVNckVqb0Q2TjBSODZIbVFjMW9jZXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3ODk3OTA5CWZpbGU6U295dXpfMC4zLjFfeDY0X2VuLVVTLm1zaQpQSkd4UTVQcVR0S0tudjNjL1paVzVHd3NHQS9kNlBJQU1mUDd1RnFUR2JLV0VPZkFWQkczZE5FQlBmTEd0cDJtSXJNdEhFZkpnQk1aT09tT2ZVa0NDdz09Cg==",
-        "url": "https://github.com/soyuz-fun/releases/releases/download/0.3.1/install_soyuz.msi"
-      }
-    }
+    "pub_date": "2025-11-22T12:00:00.00+00:00",
+    "platforms": {}
   }
